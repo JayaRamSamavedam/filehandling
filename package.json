@@ -1,0 +1,33 @@
+{
+  "name": "filehandling",
+  "version": "1.0.0",
+  "description": "A webserver which stores and server the files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayaRamSamavedam/filehandling.git"
+  },
+  "keywords": [
+    "fs",
+    "filehandling",
+    "nodejs",
+    "express"
+  ],
+  "author": "Jaya Ram Samavedam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayaRamSamavedam/filehandling/issues"
+  },
+  "homepage": "https://github.com/JayaRamSamavedam/filehandling#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0"
+  }
+}
